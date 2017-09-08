@@ -1,0 +1,1 @@
+DCInfosCallback({"country":"FR","region":"A8","city":"Paris","latitude":48.8628,"longitude":2.3292,"postal_code":"75001","browser":"Google Chrome","ip":"37.169.104.197","traffic":null})
