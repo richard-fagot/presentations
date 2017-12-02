@@ -1,4 +1,4 @@
-# Le management par l'humain
+# Libérez-vous des RH, devenez votre propre manager
 
 74% des français se disent heureux au travail
 
