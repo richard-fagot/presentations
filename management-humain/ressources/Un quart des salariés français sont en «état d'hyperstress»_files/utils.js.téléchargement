@@ -1,0 +1,1 @@
+!function(){var t=("ontouchstart"in window||"onmsgesturechange"in window,function(){return/(iPhone|iPod|iPad).+AppleWebKit/i.test(window.navigator.userAgent)}),n=document.getElementsByTagName("html")[0],e=n.getAttribute("class"),i=[];null!==e&&(i=e.split(" ")),!t()&&i.push("fig__not-ios"),n.setAttribute("class",i.join(" "))}();
