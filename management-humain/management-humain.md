@@ -29,10 +29,11 @@ mais seulement 35% des informaticiens le sont
 1. Être honnête ;
 1. Être transparent ;
 1. La transparence montre qu'on est honnête, quand on nous trouve honnête c'est qu'on peut nous faire confiance ;
+1. Soutenir ;
 1. Si le collaborateur nous fait confiance, il peut plus facilement venir chercher du soutient => Apporter son soutient (initiative, prise de risque, problème professionnel ou personnel), un collaborateur doit pouvoir s'appuyer sur son manageur ;
 1. ça veut dire être à l'écoute. On ne peut pas résoudre tous les problèmes (notamment parce qu'on évolue dans un contexte économique) mais, parfois, l'écoute suffit à aider (soutenir) le collaborateur (donner le contre-exemple du manageur qui pendant l'entretien du collaborateur ne fait que parler au lieu d'écouter => rôle du mentor) ;
 1. 
-1. On parle du management mais on n'a pas dit ce qu'on entend par là. au lycée prof de physique. Définition du management en s'intéressant à ceux qui portent la valeur ajoutée de l'entreprise (pour le savoir, prenez une catégorie dans l'E qui se met en grève et demandez-vous au bout de combien de temps on peut voir les conséquences) ;
+1. On parle du management mais on n'a pas dit ce qu'on entend par là. (anecdote : au lycée prof de physique). Définition du management en s'intéressant à ceux qui portent la valeur ajoutée de l'entreprise (pour le savoir, prenez une catégorie dans l'E qui se met en grève et demandez-vous au bout de combien de temps on peut voir les conséquences) ;
 
 
 
