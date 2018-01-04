@@ -1,0 +1,9 @@
+$(document).ready(function(){$("#files .selected ul").css("display","block");
+Cufon.replace($(".cufon"),{fontFamily:"Formata-Regular"});
+Cufon.replace($(".cufonBold"),{fontFamily:"Formata-Medium"});
+Cufon.replace($(".cufonBold span"),{fontFamily:"Formata-Regular"});
+Cufon.replace($(".cufonCondensed"),{fontFamily:"Formata-Condensed"});
+Cufon.replace($(".cufonLight"),{fontFamily:"Formata-Light"});
+$("form.jqtransform").jqTransform();
+$("form.jqtransform").jqTransform({imgPath:"jqtransformplugin/img/"})
+});

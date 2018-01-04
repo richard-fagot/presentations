@@ -1,0 +1,11 @@
+var u=location.href;
+var t=document.title;
+function twitter_click(){window.open("http://twitter.com/home?status="+encodeURIComponent(t)+" "+encodeURIComponent(u),"sharer","toolbar=0,status=0,width=626,height=436");
+return false
+}function fbs_click(){window.open("http://www.facebook.com/sharer.php?u="+encodeURIComponent(u)+"&t="+encodeURIComponent(t),"sharer","toolbar=0,status=0,width=626,height=436");
+return false
+}function shareWithViadeo(){window.open("http://www.viadeo.com/shareit/share/?url="+encodeURIComponent(u)+"&title="+encodeURIComponent(t),"sharer","toolbar=0,status=0,width=626,height=436");
+return false
+}function shareWithLinkedin(){window.open("https://www.linkedin.com/shareArticle?mini=true&url="+encodeURIComponent(u)+"&title="+encodeURIComponent(t),"sharer","toolbar=0,status=0,width=520,height=570");
+return false
+};

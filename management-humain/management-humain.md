@@ -22,6 +22,9 @@ mais seulement 35% des informaticiens le sont
 1. MAIS, il y en a qui sont allés voir les intéressés pour leur demander ce qui fait qu'ils sont **satisfaits** **AU** travail (fin de l'emphase du bonheur) : après l'intérêt pour le travail vient **La qualité de vie au travail** (41%), qui est première 71% parmi les éléments contribuants le plus à la qualité de vie **AU** travail (baromètre actineo) :
   - d'ailleurs, le premier point rejoint le sens du travail (révolte des premiers de la classe, éloge du carburateur),
   - le second passe par les relations sociales et notamment avec le management car tout part de là (on peut organiser ce qu'on veut d'événement festif, massages etc., si son manageur est un connard ça ne change rien à la qualité de vie **AU** travail) ;
+
+  (en préparant ce talk, j'ai eu des remarques comme quoi pour être staisfait il fallait être augmenté. Oui, tout le monde ne trouve pas les mêmes raisons et quand on interroge les gens la rémunération arrive en 3ème position avec un score de 34%)
+  
 1. Comment un manageur peut-il faire pour entretenir de bonnes relations avec ses collaborateurs ? :
     - générations X, Y et Z => ce n'est pas un problème de génération,
     - remettre le travail du collaborateur dans son contexte => (re)donner du sens à son travail ;
